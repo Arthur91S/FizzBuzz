@@ -4,7 +4,14 @@ public class Main {
 
     public static void main(String[] args) {
 
-        FizzBuzz fizz = new FizzBuzz();
+        FizzBuzzClean fizz = new FizzBuzzClean();
         fizz.fizzbuzz();
+
+//        FizzBuzz fizz = new FizzBuzz();
+//        fizz.fizzbuzz();
+
+//        FizzBuzzUser userFizz = new FizzBuzzUser();
+//        userFizz.fizzbuzz();
+
     }
 }
